@@ -1,9 +1,5 @@
 # TIC TAC TOE
 
-<p align = "center">
-  <img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/eca2afc3-f1b7-4e40-947d-579064a05a22" height="100px" width="100px">
-</p>
-
 ## Description 📑
 
 Mythical Tic Tac Toe game with a simple and minimalist style.
@@ -21,9 +17,11 @@ I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, a
 [!Java(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
 
 ## Project preview
-<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/48ce6021-1ba8-4e0f-9d5d-6b236b7430ad" height=20% width=20%>
-<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/216e7639-9d8a-4296-8c2d-a58db2184119" height=20% width=20%>
-<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/dd8ecf7a-2630-4b3e-b312-42daed08b7bd" height=20% width=20%>
+<p align = "center">
+  <img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/48ce6021-1ba8-4e0f-9d5d-6b236b7430ad" height=20% width=20%>
+  <img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/216e7639-9d8a-4296-8c2d-a58db2184119" height=20% width=20%>
+  <img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/dd8ecf7a-2630-4b3e-b312-42daed08b7bd" height=20% width=20%>
+</p>
 
 ## Author ✒️
 **Laura Gómez Ruiz**
