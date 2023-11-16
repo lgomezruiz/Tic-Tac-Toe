@@ -24,7 +24,7 @@ I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, a
 </p>
 
 ## Author ✒️
-**Laura Gómez Ruiz**
+· **Laura Gómez Ruiz**
 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lgomezruiz)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lgomezruiz/)
