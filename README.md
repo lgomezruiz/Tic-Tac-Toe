@@ -28,7 +28,8 @@ I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, a
 
 [![github](https://img.shields.io/static/v1?label=&message=github&color=171515&logo=github&logoColor=white&style=for-the-badge)](https://github.com/lgomezruiz)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lgomezruiz/)
-[![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/onebreathlaura/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+](https://www.instagram.com/onebreathlaura/)
 
 ## Installation 
 This project does not require installation. Simply download and open this file: [File](https://drive.google.com/file/d/1iQmw13P-scauu2lkFiJSz8FQsF-xqlBE/view?usp=sharing)
