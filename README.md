@@ -31,8 +31,8 @@ I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, a
 · [![instagram](https://img.shields.io/static/v1?label=&message=instagram&color=5B51D8&logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/onebreathlaura/)
 
 ## Installation 
-This project does not require installation. Simply open this file:
-  
+This project does not require installation. Simply download and open this file: [File](https://drive.google.com/file/d/1iQmw13P-scauu2lkFiJSz8FQsF-xqlBE/view?usp=sharing)
+
 ## License 📄
 MIT Public License v3.0
 It cannot be used commercially.
