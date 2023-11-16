@@ -14,7 +14,7 @@ I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, a
 
 ## Technologies 🛠
 
-[!Java(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## Project preview
 <p align = "center">
