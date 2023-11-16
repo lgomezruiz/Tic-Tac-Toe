@@ -1,5 +1,5 @@
 # TIC TAC TOE
-![icon_tic_tac_toe](https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/eca2afc3-f1b7-4e40-947d-579064a05a22 width=50% height=50%)
+![icon_tic_tac_toe](https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/eca2afc3-f1b7-4e40-947d-579064a05a22){:height="100px" width="100px"}
 
 ## Description 📑
 
