@@ -22,8 +22,8 @@ I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, a
 
 ## Project preview
 <img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/48ce6021-1ba8-4e0f-9d5d-6b236b7430ad" height=20% width=20%>
-<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/216e7639-9d8a-4296-8c2d-a58db2184119" height=50% width=50%>
-<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/dd8ecf7a-2630-4b3e-b312-42daed08b7bd" height=50% width=50%>
+<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/216e7639-9d8a-4296-8c2d-a58db2184119" height=20% width=20%>
+<img src="https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/dd8ecf7a-2630-4b3e-b312-42daed08b7bd" height=20% width=20%>
 
 ## Author ✒️
 **Laura Gómez Ruiz**
