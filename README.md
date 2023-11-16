@@ -1,5 +1,5 @@
 # TIC TAC TOE
-![icon_tic_tac_toe](https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/eca2afc3-f1b7-4e40-947d-579064a05a22)
+![icon_tic_tac_toe](https://github.com/lgomezruiz/Tic-Tac-Toe/assets/97950503/eca2afc3-f1b7-4e40-947d-579064a05a22 {width=200px height=200px})
 
 ## Description 📑
 
@@ -14,8 +14,8 @@ It has a score counter and a reset button.
 I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, above all, the Swing package.
 
 ## Technologies 🛠
-<!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+
+[!Java(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
 
 ## Project preview
 
