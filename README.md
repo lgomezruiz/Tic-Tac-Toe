@@ -13,8 +13,8 @@ It has a score counter and a reset button.
 I have reinforced my knowledge of Java, Object-Oriented Programming (OOP) and, above all, the Swing package.
 
 ## Technologies 🛠
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 
 ## Project preview
 <p align = "center">
