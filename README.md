@@ -35,4 +35,5 @@ This project does not require installation. Simply download and open [this file]
 
 ## License 📄
 MIT Public License v3.0
+
 It cannot be used commercially.
